@@ -16,7 +16,8 @@ I first designed prototyped my first plane protoype in cad and then built the pl
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--5272fa5ca20ee54d3ed03f046ce90bb740f1f66e/image.png)
 
-[![Watch on YouTube](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[▶ Watch the video](https://drive.google.com/file/d/FILE_ID/view?usp=sharing)
+
 
 
   
