@@ -16,5 +16,10 @@ I first designed prototyped my first plane protoype in cad and then built the pl
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--5272fa5ca20ee54d3ed03f046ce90bb740f1f66e/image.png)
 
-  
+  ### 🎥 RC Plane Flying in Sports Hall
+
+Click to watch the video:
+
+[▶ Watch the video](videos/Rc%20plane%20flying%20in%20sports%20hall%20.mp4)
+
 
